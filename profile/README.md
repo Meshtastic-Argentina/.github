@@ -4,7 +4,8 @@ Grupo dedicado a la información y ayuda cooperativa sobre la red Meshtastic htt
 
 ### Nuestra web https://mesharg.com.ar/
 ### Unite a nuestro grupo de Telegram en https://t.me/meshtastic_argentina
-### O podés ingresar a nuestro Discord https://discord.gg/CwFRcUug
+### O podés ingresar a nuestro Discord
+https://discord.gg/55fbn3Xab
 
 ---
 ### Canales activos (secundarios) en Meshtastic Argentina
