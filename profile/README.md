@@ -5,8 +5,21 @@ Grupo dedicado a la información y ayuda cooperativa sobre la red Meshtastic htt
 ### Nuestra web https://mesharg.com.ar/
 ### Unite a nuestro grupo de Telegram en https://t.me/meshtastic_argentina
 ### O podés ingresar a nuestro Discord https://discord.gg/55fbn3Xab
-### XMPP en https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin - xmpp:mesharg@conference.conversations.im?join
+### XMPP en https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin - xmpp:mesharg@conference.conversations.im
 ### Mándanos un mail a contacto(en)mesharg.com.ar
+
+Breve listado de mapas online, conviene ir revisando todos periódicamente y cada uno tiene su configuración particular:
+
+https://meshtastic.liamcottle.net/ -> Depende de configuración MQTT
+https://meshmap.net/ -> Depende de configuración MQTT
+https://meshsense.affirmatech.com/ -> Depende de reporte habilitado en la malla 
+https://meshargmap.innova.ar/ -> Depende de configuración MQTT
+https://carlosvaccaro.com.ar/mapa/ -> Depende de configuración MQTT
+http://lw7dfm.sytes.net/ -> 100% por LoRa
+http://tartufo.zapto.org/ -> 100% por LoRa
+https://meshseer.nemexix.com (este deja ver los últimos mensajes recibidos) -> 100% por LoRa
+
+Atención: hay mucha cantidad de nodos que no eligen compartir ubicación!
 
 ---
 ### Canales activos (secundarios) en Meshtastic Argentina
