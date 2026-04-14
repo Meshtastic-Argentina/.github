@@ -11,12 +11,19 @@ Grupo dedicado a la información y ayuda cooperativa sobre la red Meshtastic htt
 Breve listado de mapas online, conviene ir revisando todos periódicamente y cada uno tiene su configuración particular:
 
 https://meshtastic.liamcottle.net/ -> Depende de configuración MQTT
+
 https://meshmap.net/ -> Depende de configuración MQTT
-https://meshsense.affirmatech.com/ -> Depende de reporte habilitado en la malla 
+
+https://meshsense.affirmatech.com/ -> Depende de reporte de usuarios habilitado en la malla
+
 https://meshargmap.innova.ar/ -> Depende de configuración MQTT
+
 https://carlosvaccaro.com.ar/mapa/ -> Depende de configuración MQTT
+
 http://lw7dfm.sytes.net/ -> 100% por LoRa
+
 http://tartufo.zapto.org/ -> 100% por LoRa
+
 https://meshseer.nemexix.com (este deja ver los últimos mensajes recibidos) -> 100% por LoRa
 
 Atención: hay mucha cantidad de nodos que no eligen compartir ubicación!
