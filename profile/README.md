@@ -85,3 +85,6 @@ Join us at Telegram https://t.me/meshtastic_argentina
 
 ---
 Meshtastic® is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses, see GitHub for details. No warranty is provided - use at your own risk.
+
+Mallas amigas:
+Bahía Blanca y alrededores: https://github.com/sudoestemesh
