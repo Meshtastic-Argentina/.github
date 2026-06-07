@@ -39,7 +39,7 @@ Atención: hay mucha cantidad de nodos que no eligen compartir ubicación!
 | ERMesh | w9nTAUTYp2eFo7KyCfo5a42YSM4ewfrV/PSoxcjrAPI= | Entre Ríos
 | MendozaMesh | yVyN1359YQb0S1LW2cslgMrXHbTkHnR1TSHYDa7VCCs= | Mendoza
 
-### ¡ Como primario estamos utilizando LongFast !
+### ¡ Como primario estamos utilizando MediumFast !
 
 ---
 ## Equipamiento mínimo para armar un nodo portátil Meshtastic
