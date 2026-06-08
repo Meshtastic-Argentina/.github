@@ -68,7 +68,7 @@ Software y configuración: (Antes de enchufar o programar tu placa, asegurate qu
   👉 [Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh&hl=es&pli=1)
 
 - **Región de radio:**  
-  Configurá la región como **ANZ** y el preset LoRa en MediumFast
+  Configurá la región como **ANZ** y el preset LoRa en MediumFast.
   Esto asegura compatibilidad con la red local y el canal público llamado **MediumFast** es el que usamos como canal de encuentro base. Desde ahí podés elegir tu nombre de usuario y conectarte sin complicaciones.
   Con esta configuración básica, si hay en las cercanías otros nodos, van a ir apareciendo en el listado de la app. Si no ves ninguno, puede ser que no haya nadie cerca. Como todo equipo de radio, depende de la altura, el despeje y la distancia con el resto de los integrantes de la malla.
 
