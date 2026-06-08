@@ -5,7 +5,7 @@ Grupo dedicado a la investigación y ayuda cooperativa sobre la red Meshtastic h
 ### Nuestra web https://mesharg.com.ar/
 ### Unite a nuestro grupo de Telegram en https://t.me/meshtastic_argentina
 ### Facebook https://www.facebook.com/groups/1174679143561270/
-### O podés ingresar a nuestro Discord https://discord.gg/55fbn3Xab
+### O podés ingresar a nuestro Discord https://discord.gg/ytYsNpZC6
 ### XMPP en https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin - xmpp:mesharg@conference.conversations.im
 ### Mándanos un mail a contacto(en)mesharg.com.ar
 
