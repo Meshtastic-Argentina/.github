@@ -11,36 +11,28 @@ Grupo dedicado a la investigación y ayuda cooperativa sobre la red Meshtastic h
 
 Breve listado de mapas online, conviene ir revisando todos periódicamente y cada uno tiene su configuración particular:
 
-https://meshtastic.liamcottle.net/ -> Depende de configuración MQTT
+https://meshtastic.liamcottle.net/ -> Depende de configuración MQTT (Global)
 
-https://meshmap.net/ -> Depende de configuración MQTT
+https://meshmap.net/ -> Depende de configuración MQTT (Global)
 
-https://meshsense.affirmatech.com/ -> Depende de reporte de usuarios habilitado en la malla
+https://meshsense.affirmatech.com/ -> Depende de reporte de usuarios habilitado en la malla (Global)
 
-https://meshargmap.innova.ar/ -> Depende de configuración MQTT
+https://carlosvaccaro.com.ar/mapa/ -> Depende de configuración MQTT (Neunquén)
 
-https://carlosvaccaro.com.ar/mapa/ -> Depende de configuración MQTT
+https://meshseer.nemexix.com (este deja ver los últimos mensajes recibidos) -> 100% por LoRa (AMBA - MediumFast)
 
-http://lw7dfm.sytes.net/ -> 100% por LoRa
-
-http://tartufo.zapto.org/ -> 100% por LoRa
-
-https://meshseer.nemexix.com (este deja ver los últimos mensajes recibidos) -> 100% por LoRa
-
-Atención: hay mucha cantidad de nodos que no eligen compartir ubicación!
+Atención: hay mucha cantidad de nodos que no eligen compartir ubicación, así que no desanimarse si no aparece ninguno cerca.
 
 ---
 ### Canales activos (secundarios) en Meshtastic Argentina
-| Canal | PSK | Región |
-|--------|-----------|--------|
-| BairesMesh | aB3K7ZIciBKq49nxn5gVmPQEtbTUVZOHKxuCaCKaHtA= | CABA & AMBA 
-| RosarioMesh | kss+4MMhc9unauU8i6bix0Lt/pkjWMv1PIFr0fH8g58= | Rosario 
-| NQNmesh | B7jYDJLWy9TSnajWI/yAJETLBcjN2RNXUU4jS4eRyJo= | Neuquén
-| CordobaMesh |  CoRd0B4lHaBoN6OWT0u2EvNX9Jci7gsIiIJtD30BCCw= | Córdoba
-| ERMesh | w9nTAUTYp2eFo7KyCfo5a42YSM4ewfrV/PSoxcjrAPI= | Entre Ríos
-| MendozaMesh | yVyN1359YQb0S1LW2cslgMrXHbTkHnR1TSHYDa7VCCs= | Mendoza
-
-### ¡ Como primario estamos utilizando MediumFast !
+| Canal | PSK | Región | Modo |
+|--------|-----------|--------|--------|
+| BairesMesh | aB3K7ZIciBKq49nxn5gVmPQEtbTUVZOHKxuCaCKaHtA= | CABA & AMBA | MediumFast 
+| RosarioMesh | kss+4MMhc9unauU8i6bix0Lt/pkjWMv1PIFr0fH8g58= | Rosario | LongFast
+| NQNmesh | B7jYDJLWy9TSnajWI/yAJETLBcjN2RNXUU4jS4eRyJo= | Neuquén | LongFast
+| CordobaMesh |  CoRd0B4lHaBoN6OWT0u2EvNX9Jci7gsIiIJtD30BCCw= | Córdoba | LongFast
+| ERMesh | w9nTAUTYp2eFo7KyCfo5a42YSM4ewfrV/PSoxcjrAPI= | Entre Ríos | LongFast
+| MendozaMesh | yVyN1359YQb0S1LW2cslgMrXHbTkHnR1TSHYDa7VCCs= | Mendoza | LongFast
 
 ---
 ## Equipamiento mínimo para armar un nodo portátil Meshtastic
@@ -69,9 +61,8 @@ Software y configuración: (Antes de enchufar o programar tu placa, asegurate qu
   👉 [Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh&hl=es&pli=1)
 
 - **Región de radio:**  
-  Configurá la región como **ANZ** y el preset LoRa en MediumFast.
-  Esto asegura compatibilidad con la red local y el canal público llamado **MediumFast** es el que usamos como canal de encuentro base. Desde ahí podés elegir tu nombre de usuario y conectarte sin complicaciones.
-  Con esta configuración básica, si hay en las cercanías otros nodos, van a ir apareciendo en el listado de la app. Si no ves ninguno, puede ser que no haya nadie cerca. Como todo equipo de radio, depende de la altura, el despeje y la distancia con el resto de los integrantes de la malla.
+  Configurá la región como **ANZ** y el preset LoRa que corresponda a la región en donde te encuentres. Esto asegura compatibilidad con la red local. Desde ahí podés elegir tu nombre de usuario.
+  Con esta configuración básica, si hay en las cercanías otros nodos, van a ir apareciendo en el listado de la app. Si no ves ninguno, puede ser que no haya nadie cerca. Como todo equipo de radio, depende de la altura, el despeje y la distancia con el resto de los integrantes de la malla. Y hay que tener en cuenta que Meshtstic es un sistema de radio que permite el intercambio de mensajes, no un sistema de chat, así que puede darse el caso de que veas otros nodos, recibas mensajes, pero ellos no te "escuchen": en ese caso, buscar otra posición con más altura y despeje. ALTURA MATA ANTENA, es decir, que por más equipo y antena que tengas, si estás muy bajo o muy cubierto, puede ser que no funcione.
 
   📎 ANZ es la región adoptada oficialmente en Argentina para operar en frecuencias libres:  
   👉 [Resolución ENACOM 581/2018 – AU915-928](https://www.enacom.gob.ar/multimedia/normativas/2018/res581MM.pdf)
