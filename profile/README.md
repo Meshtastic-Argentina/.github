@@ -42,17 +42,17 @@ Atención: hay mucha cantidad de nodos que no eligen compartir ubicación, así 
 
 Opciones de placas recomendadas:
 
-- **HelTec T114 (v2) **  👉 [Tienda Starware](https://tienda.starware.com.ar/producto/placa-desarrollo-lora-bt-gps-heltec-mesh-node-t114-nrf52840sx1262-v20-pantalla/) Viene con Bluetooth y pantalla. Ideal para empezar.
+**HelTec T114 (v2)**  👉 [Tienda Starware](https://tienda.starware.com.ar/producto/placa-desarrollo-lora-bt-gps-heltec-mesh-node-t114-nrf52840sx1262-v20-pantalla/) Viene con Bluetooth y pantalla. Ideal para empezar.
 
-- **HelTec T114 (v2) kit con GPS **
+**HelTec T114 (v2) kit con GPS**
   👉 [Tienda Starware](https://tienda.starware.com.ar/producto/kit-desarrollo-lora-bt-gps-heltec-antena-mesh-node-t114-nrf52840sx1262-v2/)
   Viene con Bluetooth, GPS y pantalla. Ideal para empezar.
 
-- ** HELTEC LORA32 V3 (kit con gabinete) **
+**HELTEC LORA32 V3 (kit con gabinete)**
   👉 [Tienda Starware](https://tienda.starware.com.ar/producto/placa-desarrollo-iot-lora-heltec-lora32-v3-node-sx1262-esp32-s3-868-928mhz/)
   Viene con Bluetooth y WiFi. Simple y clásico. Consume bastante energía más energía que el T114 y ya no es recomendable para nodos portátiles a batería.
 
-⚠️ **Importante:** Si comprás en otro lado, asegurate de que la frecuencia sea **915 MHz** (o un número cercano) y cuidado con la versión de HelTec:** buscá que sea **v3** o **T114 v2**.
+⚠️ **Importante:** Si comprás en otro lado, asegurate de que la frecuencia sea **915 MHz** o cercano y cuidado con la versión de HelTec: buscá que sea **v3** o **T114 v2** ⚠️
 ---
 Software y configuración: (Antes de enchufar o programar tu placa, asegurate que la antena esté conectada)
 
