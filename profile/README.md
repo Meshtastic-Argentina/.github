@@ -2,13 +2,16 @@
 
 Grupo dedicado a la investigación y ayuda cooperativa sobre la red Meshtastic https://meshtastic.org/ en Argentina y redes afines tipo malla por LoRa.
 
+---
+A group dedicated to provide information and cooperative assistance about the topic of the Meshtastic network https://meshtastic.org/ in Argentina.
+---
 ### Nuestra web https://mesharg.com.ar/
 ### Unite a nuestro grupo de Telegram en https://t.me/meshtastic_argentina
 ### Facebook https://www.facebook.com/groups/1174679143561270/
 ### O podés ingresar a nuestro Discord https://discord.gg/ytYsNpZC6
 ### XMPP en https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin - xmpp:mesharg@conference.conversations.im
 ### Mándanos un mail a contacto(en)mesharg.com.ar
-
+---
 Breve listado de mapas online, conviene ir revisando todos periódicamente y cada uno tiene su configuración particular:
 
 https://meshtastic.liamcottle.net/ -> Depende de configuración MQTT (Global)
@@ -69,11 +72,6 @@ Software y configuración: (Antes de enchufar o programar tu placa, asegurate qu
 
 - **Zona horaria para Argentina:**  
   Al configurar el equipo, en el menú Device, ingresá **ART3** en la POSIX Timezone para que salga la hora correcta en pantalla.
-
----
-A group dedicated to provide information and cooperative assistance about the topic of the Meshtastic network https://meshtastic.org/ in Argentina.
-
-Join us at Telegram https://t.me/meshtastic_argentina
 
 ---
 Meshtastic® is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses, see GitHub for details. No warranty is provided - use at your own risk.
