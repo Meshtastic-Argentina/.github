@@ -10,6 +10,7 @@ A group dedicated to provide information and cooperative assistance about the to
 ### Facebook https://www.facebook.com/groups/1174679143561270/
 ### O podés ingresar a nuestro Discord https://discord.gg/ytYsNpZC6
 ### XMPP en https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin - xmpp:mesharg@conference.conversations.im
+### Matrix https://matrix.to/#/%23meshtastic-argentina:matrix.org
 ### Mándanos un mail a contacto(en)mesharg.com.ar
 ---
 Breve listado de mapas online, conviene ir revisando todos periódicamente y cada uno tiene su configuración particular:
