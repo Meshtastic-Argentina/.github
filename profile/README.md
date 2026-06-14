@@ -25,6 +25,8 @@ https://carlosvaccaro.com.ar/mapa/ -> Depende de configuración MQTT (Neunquén)
 
 https://meshseer.nemexix.com (este deja ver los últimos mensajes recibidos) -> 100% por LoRa (AMBA - MediumFast)
 
+https://mapa-mesh.hopto.org/ (este deja ver los últimos mensajes recibidos y elimina nodos inactivos pasadas las 36hs) -> 100% por LoRa (AMBA - MediumFast)
+
 Atención: hay mucha cantidad de nodos que no eligen compartir ubicación, así que no desanimarse si no aparece ninguno cerca.
 
 ---
