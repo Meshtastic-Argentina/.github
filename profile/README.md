@@ -27,6 +27,8 @@ https://meshseer.nemexix.com (este deja ver los últimos mensajes recibidos) -> 
 
 https://mapa-mesh.hopto.org/ (este deja ver los últimos mensajes recibidos y elimina nodos inactivos pasadas las 36hs) -> 100% por LoRa (AMBA - MediumFast)
 
+https://sentinelmesh.ar - Bahía Blanca y alrededores - https://github.com/sudoestemesh
+
 Atención: hay mucha cantidad de nodos que no eligen compartir ubicación, así que no desanimarse si no aparece ninguno cerca.
 
 ---
