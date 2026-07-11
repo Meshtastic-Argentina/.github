@@ -8,7 +8,7 @@ A group dedicated to provide information and cooperative assistance about the to
 ### Nuestra web https://mesharg.com.ar/
 ### Unite a nuestro grupo de Telegram en https://t.me/meshtastic_argentina
 ### Facebook https://www.facebook.com/groups/1174679143561270/
-### O podés ingresar a nuestro Discord https://discord.gg/ytYsNpZC6
+### O podés ingresar a nuestro Discord [https://discord.gg/ytYsNpZC6](https://discord.gg/y2r2tQQ6E)
 ### XMPP en https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin - xmpp:mesharg@conference.conversations.im
 ### Matrix https://matrix.to/#/%23meshtastic-argentina:matrix.org
 ### Mándanos un mail a contacto(en)mesharg.com.ar
