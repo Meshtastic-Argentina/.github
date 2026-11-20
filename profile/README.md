@@ -41,6 +41,7 @@ Atención: hay mucha cantidad de nodos que no eligen compartir ubicación, así 
 | CordobaMesh |  CoRd0B4lHaBoN6OWT0u2EvNX9Jci7gsIiIJtD30BCCw= | Córdoba | LongFast
 | ERMesh | w9nTAUTYp2eFo7KyCfo5a42YSM4ewfrV/PSoxcjrAPI= | Entre Ríos | LongFast
 | MendozaMesh | yVyN1359YQb0S1LW2cslgMrXHbTkHnR1TSHYDa7VCCs= | Mendoza | LongFast
+| ambaBOTs | NNmnWuDWCc4dd7r03Qg3xQaRVNmLFBLxL6Dm32fr/kM= | CABA & AMBA | MediumFast
 
 ---
 ## Equipamiento mínimo para armar un nodo portátil Meshtastic
